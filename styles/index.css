@@ -8,3 +8,10 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__flag/header__flag.css);
+
+@import url(../blocks/krutoyar/krutoyar.css);
+@import url(../blocks/krutoyar/__title/krutoyar__title.css);
+@import url(../blocks/krutoyar/__subtitle/krutoyar__subtitle.css);
+@import url(../blocks/krutoyar/__image-container/__image-container.css);
+@import url(../blocks/krutoyar/__image/krutoyar__image.css);
+@import url(../blocks/krutoyar/__caption/krutoyar__caption.css);

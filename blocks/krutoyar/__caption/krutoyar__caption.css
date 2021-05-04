@@ -1,0 +1,53 @@
+.krutoyar__caption {
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+	letter-spacing: 0.05em;
+}
+
+@media (max-width: 1023px) {
+	.krutoyar__caption {
+		padding-left: 24px;
+		padding-right: 24px;
+	}
+}
+
+@media (max-width: 850px) {
+	.krutoyar__caption {
+		font-size: 16px;
+		line-height: 20px;
+	}
+}
+
+@media (max-width: 767px) {
+	.krutoyar__caption {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+}
+
+@media (max-width: 650px) {
+	.krutoyar__caption {
+		font-size: 14px;
+		line-height: 18px;
+	}
+}
+
+@media (max-width: 575px) {
+	.krutoyar__caption {
+		font-size: 12px;
+		line-height: 16px;
+	}
+}
+
+@media (max-width: 475px) {
+	.krutoyar__caption {
+		padding-right: 90px;
+	}
+}
+
+@media (max-width: 475px) {
+	.krutoyar__caption {
+		padding-right: 40px;
+	}
+}
